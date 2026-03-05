@@ -28,7 +28,7 @@
 
 #profile-prefer-ipv4: true
 
-auto-continue: true;
+#auto-continue: true
 
 
 

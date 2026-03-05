@@ -28,6 +28,8 @@
 
 #profile-prefer-ipv4: true
 
+auto-continue: true;
+
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.41.109.69:443?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&encryption=none&host=sni.111000.dynv6.net&allowinsecure=0&type=ws&sni=sni.111000.dynv6.net#🇷🇺 АНТИЗАГЛУШКА ⚡ 1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.41.109.69:443?path=%2F%3FTelegram%40WangCai2%3D&security=tls&encryption=none&host=sni.111000.dynv6.net&allowinsecure=0&type=ws&sni=sni.111000.dynv6.net#🇷🇺 АНТИЗАГЛУШКА ⚡ 2

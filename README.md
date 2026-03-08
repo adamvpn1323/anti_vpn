@@ -32,6 +32,10 @@
 #profile-owner: ADAM VPN ⚡️
 #profile-footer-text: Спасибо, что выбрали нас!
 #profile-description: Лучшая защита от глушилок 2026
+#profile-notice-style: bold
+#announce:Обновляйте подписку 🔄 Новые конфиги и резервы появляются регулярно!💡
+#profile-announce-color: #00FF00
+#profile-welcome-message: Добро пожаловать в ADAM VPN! 🚀
 
 vless://f8667586-2fe3-4421-8b77-d354634ffa6c@hole.datanode-internal.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%D0%90%D0%9D%D0%A2%D0%98%D0%97%D0%90%D0%93%D0%9B%D0%A3%D0%A8%D0%9A%D0%90%20%F0%9F%A7%A2%7C1
 vless://f8667586-2fe3-4421-8b77-d354634ffa6c@hole.datanode-internal.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%D0%90%D0%9D%D0%A2%D0%98%D0%97%D0%90%D0%93%D0%9B%D0%A3%D0%A8%D0%9A%D0%90%20%F0%9F%A7%A2%7C2

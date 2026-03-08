@@ -33,7 +33,7 @@
 #profile-footer-text: Спасибо, что выбрали нас!
 #profile-description: Лучшая защита от глушилок 2026
 #profile-notice-style: bold
-#announce:Обновляйте подписку 🔄 Новые конфиги и резервы появляются регулярно!💡
+#announce:Обновляйте подписку 🔄 Новые конфиги появляются регулярно!💡
 #profile-announce-color: #00FF00
 #profile-welcome-message: Добро пожаловать в ADAM VPN! 🚀
 

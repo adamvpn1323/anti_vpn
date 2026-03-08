@@ -1,5 +1,5 @@
 #profile-title:АНТИЗАГЛУШКА
-#profile-update-interval:6
+#profile-update-interval:7
 #profile-subscription-url:https://raw.githubusercontent.com/adamvpn1323/anti_vpn/main/README.md
 #support-url:https://wa.me/79659571323
 #profile-web-page-url:https://wa.me/79659571323

@@ -1,41 +1,41 @@
 #profile-title:АНТИЗАГЛУШКА 🧢
-#profile-update-interval: 12
-#profile-subscription-url: https://raw.githubusercontent.com/adamvpn1323/anti_vpn/main/README.md
-#support-url: https://wa.me/79659571323
-#profile-web-page-url: https://wa.me/79659571323
-#subscription-userinfo: upload=0; download=0; total=0; expire=1816642800
-#profile-notice: ━━━━━━━━━━━━━━━\n  АНТИЗАГЛУШКА 🧢  \n━━━━━━━━━━━━━━━\n🛡 Статус: Активен\n🚀 Трафик: Безлимитный\n⚡ Скорость: Максимальная\n━━━━━━━━━━━━━━━
-#profile-icon: https://share.google/Kl64QMcBQApgnH6aJ
-#profile-test-url: http://cp.cloudflare.com/generate_204
-#profile-test-interval: 300
-#profile-auto-switch: true
-#profile-allow-copy: false
-#profile-locked: true
-#profile-read-only: true
-#profile-prefer-ipv4: true
-#auto-continue: true
-#profile-sort: delay
-#profile-hide-unreachable: true
-#profile-udp-relay: true
-#profile-exclusive: true
-#profile-emoji: true
-#profile-auto-start: true
-#profile-hide-details: true
-#profile-read-only: true
-#profile-badge: VIP
-#profile-update-on-open: true
-#profile-hide-protocol: true
-#profile-accent-color: #000000
-#profile-ui-mode: dark
-#profile-allow-share: false
-#subscription-limit: 1
-#profile-owner: ADAM VPN ⚡️
-#profile-footer-text: Спасибо, что выбрали нас!
-#profile-description: Лучшая защита от глушилок 2026
-#profile-notice-style: bold
+#profile-update-interval:12
+#profile-subscription-url:https://raw.githubusercontent.com/adamvpn1323/anti_vpn/main/README.md
+#support-url:https://wa.me/79659571323
+#profile-web-page-url:https://wa.me/79659571323
+#subscription-userinfo:upload=0; download=0; total=0; expire=1816642800
+#profile-notice:━━━━━━━━━━━━━━━\n  АНТИЗАГЛУШКА 🧢  \n━━━━━━━━━━━━━━━\n🛡 Статус: Активен\n🚀 Трафик: Безлимитный\n⚡ Скорость: Максимальная\n━━━━━━━━━━━━━━━
+#profile-icon:https://share.google/Kl64QMcBQApgnH6aJ
+#profile-test-url:http://cp.cloudflare.com/generate_204
+#profile-test-interval:300
+#profile-auto-switch:true
+#profile-allow-copy:false
+#profile-locked:true
+#profile-read-only:true
+#profile-prefer-ipv4:true
+#auto-continue:true
+#profile-sort:delay
+#profile-hide-unreachable:true
+#profile-udp-relay:true
+#profile-exclusive:true
+#profile-emoji:true
+#profile-auto-start:true
+#profile-hide-details:true
+#profile-read-only:true
+#profile-badge:VIP
+#profile-update-on-open:true
+#profile-hide-protocol:true
+#profile-accent-color:#000000
+#profile-ui-mode:dark
+#profile-allow-share:false
+#subscription-limit:1
+#profile-owner:ADAM VPN ⚡️
+#profile-footer-text:Спасибо, что выбрали нас!
+#profile-description:Лучшая защита от глушилок 2026
+#profile-notice-style:bold
 #announce:Обновляйте подписку 🔄 Новые конфиги появляются регулярно!💡
-#profile-announce-color: #00FF00
-#profile-welcome-message: Добро пожаловать в ADAM VPN! 🚀
+#profile-announce-color:#00FF00
+#profile-welcome-message:Добро пожаловать в ADAM VPN! 🚀
 
 vless://f8667586-2fe3-4421-8b77-d354634ffa6c@hole.datanode-internal.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%D0%90%D0%9D%D0%A2%D0%98%D0%97%D0%90%D0%93%D0%9B%D0%A3%D0%A8%D0%9A%D0%90%20%F0%9F%A7%A2%7C1
 vless://f8667586-2fe3-4421-8b77-d354634ffa6c@hole.datanode-internal.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%D0%90%D0%9D%D0%A2%D0%98%D0%97%D0%90%D0%93%D0%9B%D0%A3%D0%A8%D0%9A%D0%90%20%F0%9F%A7%A2%7C2
